@@ -1,2 +1,2 @@
 my second commit
-BECOMIND A BETTER SE
+BECOMING A BETTER SE
